@@ -4,9 +4,14 @@ An organization maintain information about its workers in MySQL database. Our sy
 ## 🔧 Technologies Used:
 
 **Google GenerativeAI LLM**: For natural language processing and query generation.
+
 **LangChain's SQLDatabaseChain**: To integrate the model with the MySQL database.
+
 **Hugging Face Embeddings**: For enhanced semantic understanding.
+
 **Streamlit**: For building a user-friendly interface.
+
 **Chromadb**: As a vector store for efficient data retrieval.
+
 **Few-Shot Learning**: Implemented to fine-tune the model for more precise results.
 ![sqlbot](images/SqlBot.png)
